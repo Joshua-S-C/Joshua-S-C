@@ -11,7 +11,15 @@ I don't really internet but here's some of my stuff
 </p>
 
 ## Grahpics
+Gerstner Wave Water Shader
+
 <a href="https://github.com/Joshua-S-C/gpr200-fa2023-joshua-sinclair-chong"><img src="Preview_Waves.gif" width="500px"></a>
+
+Experiementing with shders in Unity
+- Toon Shader
+- Outline Shader: Testing both (a naive) inverse hull approach and post processing approach
+- Other post processing effects
+<img src="Pewview_Shaders-Testing.jpg" width="500px">
 
 ## (G)Art
 
