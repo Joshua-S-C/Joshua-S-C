@@ -11,7 +11,7 @@ I don't really internet but here's some of my stuff
 </p>
 
 ## Grahpics
-<a href="https://github.com/Joshua-S-C/gpr200-fa2023-joshua-sinclair-chong"><img src="Preview_Waves.gif"></a>
+<a href="https://github.com/Joshua-S-C/gpr200-fa2023-joshua-sinclair-chong"><img src="Preview_Waves.gif" width="500px"></a>
 
 ## (G)Art
 
