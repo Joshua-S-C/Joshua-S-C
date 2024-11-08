@@ -19,7 +19,7 @@ Experiementing with shders in Unity
 - Toon Shader
 - Outline Shader: Testing both (a naive) inverse hull approach and post processing approach
 - Other post processing effects
-<img src="Pewview_Shaders-Testing.jpg" width="500px">
+<img src="Preview_Shaders-Testing.jpg" width="500px">
 
 ## (G)Art
 
