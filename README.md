@@ -1,5 +1,3 @@
-(I'll finish this later 🙄)
-
 # 💙Lover💙 of 🦦Otters🦦 🧪Science🧪 & 😎Shades😎
 I don't really internet but here's some of my stuff
 
@@ -37,8 +35,11 @@ Experiementing with shders in Unity
 <br clear="left"/>
 
 ## (G)Art
-
-3D Arts may or not be uploaded here at some point
+<div align="center">
+<img src="Cabinet_Render_1.jpg" width="300px">
+<img src="Cabinet_Render_2.jpg" width="300px">
+<img src="Cabinet_Render_3.jpg" width="300px">
+</div>
 
 <!--- TODO: Use gifs lol
 <a href="https://vxheme.itch.io/bfb-on-the-go"><img src="Preview_BFB.gif"></a>
