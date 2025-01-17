@@ -12,7 +12,7 @@ I don't really internet but here's some of my stuff
 
 
 ## Grahpics
-<a href="https://github.com/Joshua-S-C/gpr200-fa2023-joshua-sinclair-chong"><img mg align="left" src="Preview_Waves.gif" width="500px"></a>
+<a href="https://github.com/Joshua-S-C/GPR-200"><img mg align="left" src="Preview_Waves.gif" width="500px"></a>
   
 Gerstner Wave Water Shader
 
